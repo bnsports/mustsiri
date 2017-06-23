@@ -1,0 +1,57 @@
+{
+    "data": [{
+             "id": "1",
+             "title": "Аватар",
+             "year": "2007",
+             "poster": "img_moonlight"
+             },
+             {
+             "id": "2",
+             "title": "Дедпул",
+             "year": "2007",
+             "poster": "img_dirty_grandpa"
+             },
+             {
+             "id": "3",
+             "title": "Моцарт в джунглях",
+             "year": "2007",
+             "poster": "img_jungle"
+             },
+             {
+             "id": "4",
+             "title": "Побег из шоушенка",
+             "year": "1994",
+             "poster": ""
+             },
+             {
+             "id": "5",
+             "title": "Темный рыцарь",
+             "year": "2008",
+             "poster": ""
+             },
+             {
+             "id": "6",
+             "title": "Криминальное чтиво",
+             "year": "1994",
+             "poster": ""
+             },
+             {
+             "id": "7",
+             "title": "Бойцовский клуб",
+             "year": "1999",
+             "poster": ""
+             },
+             {
+             "id": "1",
+             "title": "Аватар 2",
+             "year": "2007",
+             "poster": "img_moonlight"
+             },
+             {
+             "id": "1",
+             "title": "Аватар 3",
+             "year": "2007",
+             "poster": "img_moonlight"
+             }
+             ]
+}

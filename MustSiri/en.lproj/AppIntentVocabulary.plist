@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentExamples</key>
+			<array>
+				<string>Add movie to watched in MustSiri</string>
+				<string>Add Pulp Fiction in watched in MustSiri</string>
+				<string>Add Avatar in watched list in MustSiri</string>
+				<string>Add The Departed in watched list in MustSiri</string>
+				<string>Add Snatch in watched list in MustSiri</string>
+			</array>
+			<key>IntentName</key>
+			<string>INCreateNoteIntentHandling</string>
+		</dict>
+	</array>
+</dict>
+</plist>

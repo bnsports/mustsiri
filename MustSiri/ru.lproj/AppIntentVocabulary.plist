@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ParameterVocabularies</key>
+	<array>
+		<dict>
+			<key>ParameterNames</key>
+			<array>
+				<string>INCreateNoteIntent.title</string>
+			</array>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>avatar</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>Аватар</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>Аватар</string>
+							<key>VocabularyItemExamples</key>
+							<array>
+								<string>Сири, добавь аватар в просмотренные в MustSiri</string>
+								<string>Сири, добавь аватар в список просмотренного в MustSiri</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentExamples</key>
+			<array>
+				<string>Добавь фильм в просмотренные в MustSiri.</string>
+				<string>Добавь криминальное чтиво в просмотренные в MustSiri.</string>
+				<string>Добавь аватар в просмотренные в MustSiri.</string>
+				<string>Добавь отступники в просмотренные в MustSiri.</string>
+				<string>Добавь большой куш в просмотренные в MustSiri.</string>
+			</array>
+			<key>IntentName</key>
+			<string>INCreateNoteIntentHandling</string>
+		</dict>
+	</array>
+</dict>
+</plist>

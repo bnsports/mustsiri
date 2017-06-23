@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>IntentPhrases</key>
+        <array>
+            <dict>
+                <key>IntentExamples</key>
+                <array>
+                    <string>Добавь аватар в список просмотренное в MustSiri</string>
+                    <string>Добавь фильм в список просмотренное в MustSiri</string>
+                </array>
+                <key>IntentName</key>
+                <string>INCreateNoteIntent</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
